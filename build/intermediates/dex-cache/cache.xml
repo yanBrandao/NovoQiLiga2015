@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yanbrandao/AndroidstudioProjects/QiLiga2.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/yanbrandao/AndroidstudioProjects/QiLiga2.0/app/build/intermediates/pre-dexed/debug/classes-22489c6f792037d12460ecedf76a4aa38e0d937f.jar" />
+    </item>
+    <item
+        jar="/Users/yanbrandao/AndroidstudioProjects/QiLiga2.0/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/yanbrandao/AndroidstudioProjects/QiLiga2.0/app/build/intermediates/pre-dexed/debug/classes-48a1cfb82e7af850e6460af1636cdad64be775f4.jar" />
+    </item>
+    <item
+        jar="/Users/yanbrandao/AndroidstudioProjects/QiLiga2.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Users/yanbrandao/AndroidstudioProjects/QiLiga2.0/app/build/intermediates/pre-dexed/debug/classes-8aaf165ec3f7dbc9c4d2c93aeb2b0837eaa451c9.jar" />
+    </item>
+    <item
+        jar="/Users/yanbrandao/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/yanbrandao/AndroidstudioProjects/QiLiga2.0/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-eace0f195397da0e8a0ac83c5cf5f8a0bcd3a018.jar" />
+    </item>
+    <item
+        jar="/Users/yanbrandao/AndroidstudioProjects/QiLiga2.0/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/yanbrandao/AndroidstudioProjects/QiLiga2.0/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-9564fd9a7f33906b0f3ecce6a281b02cce90b4bd.jar" />
+    </item>
+
+</items>

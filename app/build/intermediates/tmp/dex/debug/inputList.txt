@@ -1,0 +1,6 @@
+/Users/yanbrandao/AndroidstudioProjects/QiLiga2.0/app/build/intermediates/classes/debug
+/Users/yanbrandao/AndroidstudioProjects/QiLiga2.0/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-eace0f195397da0e8a0ac83c5cf5f8a0bcd3a018.jar
+/Users/yanbrandao/AndroidstudioProjects/QiLiga2.0/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-9564fd9a7f33906b0f3ecce6a281b02cce90b4bd.jar
+/Users/yanbrandao/AndroidstudioProjects/QiLiga2.0/app/build/intermediates/pre-dexed/debug/classes-8aaf165ec3f7dbc9c4d2c93aeb2b0837eaa451c9.jar
+/Users/yanbrandao/AndroidstudioProjects/QiLiga2.0/app/build/intermediates/pre-dexed/debug/classes-48a1cfb82e7af850e6460af1636cdad64be775f4.jar
+/Users/yanbrandao/AndroidstudioProjects/QiLiga2.0/app/build/intermediates/pre-dexed/debug/classes-22489c6f792037d12460ecedf76a4aa38e0d937f.jar

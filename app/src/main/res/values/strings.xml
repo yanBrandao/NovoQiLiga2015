@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QiLiga2.0</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="vaiquecola">Vai que cola!</string>
+    <string name="title_activity_colou">ColouActivity</string>
+    <string name="colou">Colou!</string>
+    <string name="login_str">Login</string>
+    <string name="email_str">Email</string>
+    <string name="senha_str">Senha</string>
+    <string name="entrar_str">Entrar</string>
+    <string name="cadastrar_str">Cadastrar</string>
+    <string name="title_activity_map_location">MapLocation</string>
+    <string name="title_activity_tretas">Tretas</string>
+    <string name="treta">TretaLoka</string>
+
+</resources>
